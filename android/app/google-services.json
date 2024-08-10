@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "279309055875",
+    "project_id": "servicios-firestore-sa",
+    "storage_bucket": "servicios-firestore-sa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279309055875:android:3abb3ca69bc3751456e8b6",
+        "android_client_info": {
+          "package_name": "com.example.examen3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279309055875-psi3fgslm1doukt8a57eenmi4rp80mvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlTnf3qgpc5l3Av9LTMGHi4tHSfNRQv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279309055875-psi3fgslm1doukt8a57eenmi4rp80mvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279309055875:android:873cd9bd073d0ca256e8b6",
+        "android_client_info": {
+          "package_name": "hn.edu.unah.servicios_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279309055875-5gir6gqrfdf0cjuq3aiitllgeq9kojig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hn.edu.unah.servicios_firebase",
+            "certificate_hash": "10534f23348505a5c289173226d31c222aa6a16b"
+          }
+        },
+        {
+          "client_id": "279309055875-psi3fgslm1doukt8a57eenmi4rp80mvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlTnf3qgpc5l3Av9LTMGHi4tHSfNRQv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279309055875-psi3fgslm1doukt8a57eenmi4rp80mvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
